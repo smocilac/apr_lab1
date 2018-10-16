@@ -19,13 +19,13 @@ void test_using_LUP(Matrica<> A, Matrica<> b);
 
 int main()
 {
-    zadatak1();
+    //zadatak1();
 
-    //rijesi_sustav("mat1_zad2.txt", "mat2_zad2.txt");
-    //rijesi_sustav("mat1_zad3.txt", "mat2_zad3.txt");
-    //rijesi_sustav("mat1_zad4.txt", "mat2_zad4.txt"); // TODO: LUP daje tocne vrijednost bez decimala.Zasto?
-    //rijesi_sustav("mat1_zad5.txt", "mat2_zad5.txt"); // TODO: warning da su jako male vrijednost
-    //rijesi_sustav("mat1_zad6.txt", "mat2_zad6.txt"); // TODO: oboje radi, moze imati problema. Zasto?
+    rijesi_sustav("../matrice/mat1_zad2.txt", "../matrice/mat2_zad2.txt");
+    //rijesi_sustav("../matrice/mat1_zad3.txt", "../matrice/mat2_zad3.txt");
+    //rijesi_sustav("../matrice/mat1_zad4.txt", "../matrice/mat2_zad4.txt"); // TODO: LUP daje tocne vrijednost bez decimala.Zasto?
+    //rijesi_sustav("../matrice/mat1_zad5.txt", "../matrice/mat2_zad5.txt"); // TODO: warning da su jako male vrijednost
+    //rijesi_sustav("../matrice/mat1_zad6.txt", "../matrice/mat2_zad6.txt"); // TODO: oboje radi, moze imati problema. Zasto?
 
     return 0;
 }
