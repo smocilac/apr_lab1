@@ -93,7 +93,7 @@ private:
  * Proizvoljno veliki epsilon. Defaultna vrijednost 1e-10
  */
 template<class T>
-const T Matrica<T>::epsilon = 0.0000000001;
+const T Matrica<T>::epsilon = 1e-10;
 
 
 /**
