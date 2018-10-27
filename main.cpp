@@ -1,4 +1,4 @@
-#include <iostream>
+    #include <iostream>
 #include <valarray>
 #include <fstream>
 
@@ -23,7 +23,7 @@ int main()
 
     //rijesi_sustav("../matrice/mat1_zad2.txt", "../matrice/mat2_zad2.txt");
     //rijesi_sustav("../matrice/mat1_zad3.txt", "../matrice/mat2_zad3.txt");
-    //rijesi_sustav("../matrice/mat1_zad4.txt", "../matrice/mat2_zad4.txt"); // TODO: LUP daje tocne vrijednost bez decimala.Zasto?
+    rijesi_sustav("../matrice/mat1_zad4.txt", "../matrice/mat2_zad4.txt"); // TODO: LUP daje tocne vrijednost bez decimala.Zasto?
     //rijesi_sustav("../matrice/mat1_zad5.txt", "../matrice/mat2_zad5.txt"); // TODO: zasto nije NUlA?
     //rijesi_sustav("../matrice/mat1_zad6.txt", "../matrice/mat2_zad6.txt"); // TODO: oboje radi, moze imati problema. Zasto?
 
